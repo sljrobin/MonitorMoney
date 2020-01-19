@@ -1,0 +1,4 @@
+colorama
+nh-currency
+pygments
+termgraph
