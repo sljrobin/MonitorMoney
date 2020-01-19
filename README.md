@@ -1,6 +1,16 @@
 # MonitorMoney
 MonitorMoney is a simple monitor to handle private expenses. With two given dates, it allows to perform different analyses, print statements or show graphs (cf. [Screenshots](#screenshots) below).
 
+* [Getting Started](#getting-started)
+    * [Installation](#installation)
+    * [Edit Preferences](#edit-preferences)
+    * [Edit Statement](#edit-statement)
+* [Usage](#usage)
+    * [Action: `generate`](#action-generate)
+    * [Action: `statement`](#action-statement)
+    * [Action: `analysis`](#action-analysis)
+    * [Other Actions (with `Makefile` only](#other-actions-with-makefile-only)
+
 ## Screenshots
 ### Analysis
 ![](./data/screenshots/monimoney-analysis.png)
