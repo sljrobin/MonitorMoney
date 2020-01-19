@@ -9,7 +9,7 @@ MonitorMoney is a simple monitor to handle private expenses. With two given date
     * [Action: `generate`](#action-generate)
     * [Action: `statement`](#action-statement)
     * [Action: `analysis`](#action-analysis)
-    * [Other Actions (with `Makefile` only](#other-actions-with-makefile-only)
+    * [Other Actions (with `Makefile` only)](#other-actions-with-makefile-only)
 
 ## Screenshots
 ### Analysis
