@@ -1,0 +1,23 @@
+{
+  "account":{
+    "bank":"HSBC",
+    "country":"United Kingdom",
+    "name":"Transaction Account",
+    "currency":"GBP"
+  },
+  "transactions":{
+    "2019-09-06":[
+      {"type":"debit", "amount":3.18, "category":"utilities", "subcategory":"website", "description":"VPS"},
+      {"type":"debit", "amount":31.05, "category":"groceries", "subcategory":"", "description":"Sainsbury's"},
+      {"type":"debit", "amount":18, "category":"groceries", "subcategory":"", "description":"Iceland"}
+    ],
+    "2019-08-27":[
+      {"type":"debit", "amount":100.00, "category":"rent", "subcategory":"", "description":"Main residence"}
+    ],
+    "2019-08-23":[
+      {"type":"debit", "amount":400.00, "category":"income", "subcategory":"taxes", "description":""},
+      {"type":"credit", "amount":2000.00, "category":"income", "subcategory":"salary", "description":""}
+    ]
+  }
+}
+
