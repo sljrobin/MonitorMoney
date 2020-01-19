@@ -29,7 +29,7 @@ create:
 	$(MM) create
 # Rule: edit statement files
 edit:
-	@vim -c 'execute "norm /transactions\n"' -p $(GB_ACCOUNT) $(FR_ACCOUNT) $(FR_LIVRETA) $(FR_LDDS) $(FR_VIE)
+	@vim -c 'execute "norm /transactions\n"' -p $(GB_ACCOUNT)
 # Rule: generate a Makefile rule
 generate:
 	$(MM) generate --rule=$(month)
