@@ -103,6 +103,8 @@ Different actions are available (cf. below). They can be performed by calling th
 * `python3 monimoney.py analysis --start=2019-01-01 --end=2020-01-01 --all`
 
 ### Other Actions (with `Makefile` only)
+The following actions are still in development.
+
 * `make convert`: converts savings in GBP to EUR
 * `make edit`: opens all statements for editing
 * `make graph`: creates a graph of savings
